@@ -1,0 +1,6 @@
+{
+  "/page": "app/page.js",
+  "/auth/page": "app/auth/page.js",
+  "/impressum/page": "app/impressum/page.js",
+  "/datenschutz/page": "app/datenschutz/page.js"
+}
