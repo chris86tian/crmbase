@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export',
+  output: 'standalone', // Changed from 'export' to 'standalone'
   distDir: 'dist',
   eslint: {
     ignoreDuringBuilds: true,
